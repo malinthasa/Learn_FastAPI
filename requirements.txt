@@ -1,0 +1,3 @@
+##### Requirements without the version
+fastapi
+uvicorn[standard]
